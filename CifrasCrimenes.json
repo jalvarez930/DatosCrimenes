@@ -1,13 +1,13 @@
 {
-    "Id": "aee16c0e-1ab1-43a9-a436-91bd0f528a84",
-    "Url": "www.epdata.es/evolucion-interanual-crimenes-espana/aee16c0e-1ab1-43a9-a436-91bd0f528a84",
-    "Titulo": "Evolución interanual de crímenes en España",
-    "Subtitulo": "Variación interanual de las infracciones penales registradas",
+    "Id": "d46b83fd-58df-4c71-bdeb-d40691a66838",
+    "Url": "www.epdata.es/cifras-crimen-espana/d46b83fd-58df-4c71-bdeb-d40691a66838",
+    "Titulo": "Las cifras del crimen en España",
+    "Subtitulo": "",
     "Datos": {
         "Metricas": [
             {
                 "Id": 0,
-                "Nombre": "Infracciones penales registradas a nivel trimestral - Porcentaje de variación de Número de infracciones penales registradas en lo que va de año con respecto al mismo trimestre del año anterior para total como tipo de delito registrado y España como país",
+                "Nombre": "Infracciones penales registradas a nivel trimestral - Número de infracciones penales registradas en lo que va de año para homicidios dolosos y asesinatos consumados como tipo de delito registrado y España como país",
                 "SonDatosNumericos": true,
                 "Fuente": "Ministerio del Interior",
                 "Clasificacion": null,
@@ -17,161 +17,361 @@
                 "Datos": [
                     {
                         "Agno": 2016,
-                        "Periodo": "Trimestre 1",
-                        "Parametro": "2016",
-                        "Valor": -1.764424121913717,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2016,
-                        "Periodo": "Trimestre 2",
-                        "Parametro": "Trimestre 2",
-                        "Valor": -2.6421165183782778,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2016,
-                        "Periodo": "Trimestre 3",
-                        "Parametro": "Trimestre 3",
-                        "Valor": -1.504410317068141,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Agresión sexual con penetración",
+                        "Valor": 1249,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
                         "Agno": 2016,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Trimestre 4",
-                        "Valor": -1.3317360683223562,
+                        "Parametro": "Homicidios dolosos y asesinatos consumados",
+                        "Valor": 294,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2017,
-                        "Periodo": "Trimestre 1",
-                        "Parametro": "2017",
-                        "Valor": 1.5402297437662489,
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Hurtos",
+                        "Valor": 711507,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2017,
-                        "Periodo": "Trimestre 2",
-                        "Parametro": "Trimestre 2",
-                        "Valor": 0.6483783990746376,
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+                        "Valor": 160853,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2017,
-                        "Periodo": "Trimestre 3",
-                        "Parametro": "Trimestre 3",
-                        "Valor": 0.49497421433213046,
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con violencia e intimidación",
+                        "Valor": 62952,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Secuestro",
+                        "Valor": 94,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Sustracciones de vehículos",
+                        "Valor": 43335,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Total",
+                        "Valor": 2009690,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Tráfico de drogas",
+                        "Valor": 12448,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
                         "Agno": 2017,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Trimestre 4",
-                        "Valor": 1.7961476645651817,
+                        "Parametro": "Agresión sexual con penetración",
+                        "Valor": 1382,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2018,
-                        "Periodo": "Trimestre 1",
-                        "Parametro": "2018",
-                        "Valor": 1.6506364665363267,
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Homicidios dolosos y asesinatos consumados",
+                        "Valor": 310,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2018,
-                        "Periodo": "Trimestre 2",
-                        "Parametro": "Trimestre 2",
-                        "Valor": 2.6981382725788383,
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Hurtos",
+                        "Valor": 712398,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2018,
-                        "Periodo": "Trimestre 3",
-                        "Parametro": "Trimestre 3",
-                        "Valor": 3.6980840351549578,
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+                        "Valor": 149651,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con violencia e intimidación",
+                        "Valor": 61763,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Secuestro",
+                        "Valor": 69,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Sustracciones de vehículos",
+                        "Valor": 42519,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Total",
+                        "Valor": 2045787,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Tráfico de drogas",
+                        "Valor": 12958,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
                         "Agno": 2018,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Trimestre 4",
-                        "Valor": 4.171059841518203,
+                        "Parametro": "Agresión sexual con penetración",
+                        "Valor": 1700,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2019,
-                        "Periodo": "Trimestre 1",
-                        "Parametro": "2019",
-                        "Valor": 5.01341780995935,
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Homicidios dolosos y asesinatos consumados",
+                        "Valor": 289,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2019,
-                        "Periodo": "Trimestre 2",
-                        "Parametro": "Trimestre 2",
-                        "Valor": 4.215182729077859,
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Hurtos",
+                        "Valor": 706072,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2019,
-                        "Periodo": "Trimestre 3",
-                        "Parametro": "Trimestre 3",
-                        "Valor": 3.9223998503947355,
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+                        "Valor": 150872,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con violencia e intimidación",
+                        "Valor": 60295,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Secuestro",
+                        "Valor": 81,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Sustracciones de vehículos",
+                        "Valor": 35897,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Total",
+                        "Valor": 2131118,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Tráfico de drogas",
+                        "Valor": 14133,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
                         "Agno": 2019,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Trimestre 4",
-                        "Valor": 3.207565231019587,
+                        "Parametro": "Agresión sexual con penetración",
+                        "Valor": 1873,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2020,
-                        "Periodo": "Trimestre 1",
-                        "Parametro": "2020",
-                        "Valor": -8.920248135393315,
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Homicidios dolosos y asesinatos consumados",
+                        "Valor": 331,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2020,
-                        "Periodo": "Trimestre 2",
-                        "Parametro": "Trimestre 2",
-                        "Valor": -24.833482211756564,
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Hurtos",
+                        "Valor": 700453,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
-                        "Agno": 2020,
-                        "Periodo": "Trimestre 3",
-                        "Parametro": "Trimestre 3",
-                        "Valor": -20.20989508893154,
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+                        "Valor": 142528,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con violencia e intimidación",
+                        "Valor": 65874,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Secuestro",
+                        "Valor": 89,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Sustracciones de vehículos",
+                        "Valor": 35105,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Total",
+                        "Valor": 2199475,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Tráfico de drogas",
+                        "Valor": 16624,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
                     {
                         "Agno": 2020,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Trimestre 4",
-                        "Valor": -19.37321406244672,
+                        "Parametro": "Agresión sexual con penetración",
+                        "Valor": 1602,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Homicidios dolosos y asesinatos consumados",
+                        "Valor": 299,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Hurtos",
+                        "Valor": 421248,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+                        "Valor": 103293,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Robos con violencia e intimidación",
+                        "Valor": 45472,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Secuestro",
+                        "Valor": 79,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Sustracciones de vehículos",
+                        "Valor": 26008,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Total",
+                        "Valor": 1773366,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Tráfico de drogas",
+                        "Valor": 16996,
                         "Estado": "Definitivo",
                         "Notas": ""
                     }
