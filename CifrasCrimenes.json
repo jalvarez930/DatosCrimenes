@@ -74,14 +74,6 @@
                     {
                         "Agno": 2016,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Total",
-                        "Valor": 2009690,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2016,
-                        "Periodo": "Trimestre 4",
                         "Parametro": "Tráfico de drogas",
                         "Valor": 12448,
                         "Estado": "Definitivo",
@@ -140,14 +132,6 @@
                         "Periodo": "Trimestre 4",
                         "Parametro": "Sustracciones de vehículos",
                         "Valor": 42519,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2017,
-                        "Periodo": "Trimestre 4",
-                        "Parametro": "Total",
-                        "Valor": 2045787,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
@@ -218,14 +202,6 @@
                     {
                         "Agno": 2018,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Total",
-                        "Valor": 2131118,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2018,
-                        "Periodo": "Trimestre 4",
                         "Parametro": "Tráfico de drogas",
                         "Valor": 14133,
                         "Estado": "Definitivo",
@@ -290,14 +266,6 @@
                     {
                         "Agno": 2019,
                         "Periodo": "Trimestre 4",
-                        "Parametro": "Total",
-                        "Valor": 2199475,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2019,
-                        "Periodo": "Trimestre 4",
                         "Parametro": "Tráfico de drogas",
                         "Valor": 16624,
                         "Estado": "Definitivo",
@@ -356,14 +324,6 @@
                         "Periodo": "Trimestre 4",
                         "Parametro": "Sustracciones de vehículos",
                         "Valor": 26008,
-                        "Estado": "Definitivo",
-                        "Notas": ""
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Trimestre 4",
-                        "Parametro": "Total",
-                        "Valor": 1773366,
                         "Estado": "Definitivo",
                         "Notas": ""
                     },
