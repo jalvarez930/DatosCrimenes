@@ -1,0 +1,150 @@
+{
+    "Id": "28e9652c-275c-46dc-8c6c-789f5551e597",
+    "Url": "www.epdata.es/variacion-secuestros-espana/28e9652c-275c-46dc-8c6c-789f5551e597/espana/106",
+    "Titulo": "Variación de los secuestros en España",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Infracciones penales registradas a nivel trimestral - Porcentaje de variación de Número de infracciones penales registradas en lo que va de año con respecto al mismo trimestre del año anterior para secuestro como tipo de delito registrado y España como país",
+                "SonDatosNumericos": true,
+                "Fuente": "Ministerio del Interior",
+                "Clasificacion": null,
+                "Unidad": "Número de infracciones penales registradas en lo que va de año",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2017",
+                        "Valor": -48.275862068965516,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": -37.735849056603776,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": -37.17948717948718,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": -26.595744680851062,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2018",
+                        "Valor": 46.666666666666664,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 9.090909090909092,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 10.204081632653061,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 17.391304347826086,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2019",
+                        "Valor": 9.090909090909092,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 38.888888888888886,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 31.48148148148148,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 9.876543209876543,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2020",
+                        "Valor": -20.833333333333332,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": -28,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": -14.084507042253522,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": -11.235955056179776,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
